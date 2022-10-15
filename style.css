@@ -1,0 +1,26 @@
+img {
+    width: 200px;
+    border-radius: 50%;
+}
+footer p {
+    color: blue;
+    text-decoration:underline;
+    
+}
+
+.head {
+    display: flex;
+}
+.card {
+    background-color: rgb(17, 64, 48);
+    width: 500px;
+    height: 400px;
+}
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+p {
+    color: antiquewhite;
+}
